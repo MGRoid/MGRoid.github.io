@@ -1,11 +1,11 @@
 # Setup
 title: MGR
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: 一个喜欢MGR的人的博客
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201710%2F25%2F20171025172951_2HKVx.thumb.400_0.gif&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1642511840&t=cfc56eb32e684134f1e9782d895ddbb5
 
 # Gems
 plugins:
